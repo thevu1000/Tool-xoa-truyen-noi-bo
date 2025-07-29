@@ -32,7 +32,9 @@ export const sanityConfig = {
 };
 ```
 
-> **Lưu ý:** Token này không được hết hạn, và phải có quyền "Editor" trở lên.
+> **Lưu ý:** 
+> - Token này không được hết hạn, và phải có quyền "Editor" trở lên.
+> - **Để lấy token và project ID, vui lòng liên hệ chủ tool.**
 
 ---
 

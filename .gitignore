@@ -1,0 +1,26 @@
+
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv / config secrets
+.env
+sanity.config.js
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Output
+dist/
+build/
+
+# VSCode
+.vscode/
+
+# Others
+*.log
